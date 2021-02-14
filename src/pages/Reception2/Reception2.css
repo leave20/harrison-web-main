@@ -1,0 +1,31 @@
+.card-header {
+  display: flex;
+}
+.card-header .tag-header {
+  background: #87d068;
+  color: #fff;
+  padding: 2px 10px;
+  display: flex;
+  align-items: center;
+}
+.card-header .tag-header .status {
+  margin-left: 5px;
+  font-size: 12px;
+}
+.card-header h3 {
+  margin: 0;
+  margin-left: 10px;
+}
+.card-body {
+  margin-top: 15px;
+}
+.card-body .ant-descriptions-row > td {
+  padding-bottom: 6px !important;
+}
+.ant-descriptions-item-label,
+.ant-descriptions-item-content {
+  color: #5f5f5f !important;
+}
+.card-body .ant-descriptions-item .ant-descriptions-item-label {
+  font-weight: bold;
+}

@@ -1,0 +1,21 @@
+.ant-layout-sider .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.ant-layout .ant-layout-header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0 16px 0;
+}
+
+.active{
+  color: #fff !important;
+  font-weight: 500;
+}
